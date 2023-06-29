@@ -1,5 +1,5 @@
-# loginRegisterNodejsAJAX
-Login/Register system Node.js/MySQL and Bootstrap 4/Ajax (passport middleware)
+# Đăng nhập - Đăng ký - NodejsAJAX (Học Tập)
 
-Project : A login/register sytem using NodeJS platform (Node.js + MySQL + Bootstrap 4 + JQuery).
+Đăng nhập/Đăng ký hệ thống Node.js/MySQL và Bootstrap 4/Ajax
 
+Dự án : Hệ thống đăng nhập/đăng ký sử dụng nền tảng NodeJS (Node.js + MySQL + Bootstrap 4 + JQuery).
